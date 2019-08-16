@@ -6,7 +6,7 @@ May the best candidate win.
 
 You are provided with an html file: `index.html`.
 
-The CSS has gone missing missing.
+The CSS has gone missing!
 
 Your objective is to write the CSS to obtain a page identical to the one you see in this [video](https://www.youtube.com/watch?v=x67-Zw5jNhw&feature=youtu.be&hd=1).
 
@@ -19,16 +19,16 @@ Your objective is to write the CSS to obtain a page identical to the one you see
 
 ## Expectations:
 
-- You should be able to complete this challenge in 20 minutes or less.
-- If you spend more than 30 minutes on this challenge, this might not be the job for you.
+- You should be able to complete this challenge in 20 minutes or less
+- If you spend more than 30 minutes on this challenge, this might not be the job for you
 
 ## Rules
 
-- You are not allowed to modify the HTML in any way. No change to the structure, no change to the class names.
-- You are only allowed to modify `challenge.css`.
-- You must write your stylesheet in either pure CSS or LessCss.
-- Googling is allowed.
-- Send us your `challenge.css` file to travis@prizeout.com along with your resume & how long it took you to complete this challenge.
+- Do not modify the HTML in any way. No change to the structure, no change to the class names
+- You are only allowed to modify `challenge.css`
+- Your stylesheet must be written in either pure CSS or LessCss
+- Googling is allowed
+- Send your resume & `challenge.css` file to travis@prizeout.com, along with how long it took you to complete this challenge
 
 ## What we're testing
 
@@ -45,5 +45,5 @@ Your objective is to write the CSS to obtain a page identical to the one you see
 ## Next Step
 
 - Your `challenge.css` file will be tested & reviewed.
-- If you pass, you'll be contacted for a phone interview.
+- We'll follow up with results and/or next steps within a week
 - If you pass the phone interview, you'll have an on-site interview, during which you'll be asked to perform a similar (but smaller) coding challenge (bring your laptop)
